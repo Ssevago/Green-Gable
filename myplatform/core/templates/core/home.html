@@ -1,0 +1,30 @@
+{% extends 'modules/base.html' %}
+
+{% block title %}Inicio - Green Gable Advisors{% endblock %}
+
+{% block content %}
+  <div class="container mt-5 text-center">
+    <h1 class="mb-3">Green Gable Advisors</h1>
+    <p class="lead">Gestión institucional con análisis de datos</p>
+    <a href="{% url 'login' %}" class="btn btn-outline-primary mb-5">Iniciar sesión</a>
+  </div>
+
+  <div class="container mt-3">
+    <h2 class="mb-4">Bienvenido</h2>
+    <div class="row">
+      {% for modulo in modulos %}
+      <div class="col-md-4 mb-3">
+        <div class="card">
+          <img src="{{ modulo.imagen.url }}" class="card-img-top" alt="{{ modulo.nombre }}">
+          <div class="card-body">
+            <h5 class="card-title">{{ modulo.nombre }}</h5>
+            <p class="card-text">{{ modulo.descripcion }}</p>
+            <a href="#" class="btn btn-primary">Entrar</a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+{% endblock %}
+
