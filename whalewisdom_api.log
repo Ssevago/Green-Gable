@@ -1,0 +1,41 @@
+2025-06-02 20:18:59,822:INFO:Realizando solicitud a la API: https://whalewisdom.com/shell/command.json?args=%7B%22command%22%3A%22quarters%22%7D&api_shared_key=wY0e3zria06ULMWuSmR2&api_sig=szBbJBLRiBXCi2m8ikouhP1RyRo=&timestamp=2025-06-03T00:18:59Z
+2025-06-02 20:19:00,915:INFO:Se obtuvieron 97 quarters.
+2025-06-02 20:19:00,919:INFO:Quarters actuales guardados en el archivo.
+2025-06-02 20:20:09,841:INFO:Realizando solicitud a la API: https://whalewisdom.com/shell/command.json?args=%7B%22command%22%3A%22quarters%22%7D&api_shared_key=wY0e3zria06ULMWuSmR2&api_sig=4cTjsSEJiJq3pRb2UdAJIEXCNFg=&timestamp=2025-06-03T00:20:09Z
+2025-06-02 20:20:10,641:INFO:Se obtuvieron 97 quarters.
+2025-06-02 20:20:10,646:INFO:No hay nuevos quarters disponibles. Finalizando la ejecución.
+2025-06-02 20:20:19,079:INFO:Realizando solicitud a la API: https://whalewisdom.com/shell/command.json?args=%7B%22command%22%3A%22quarters%22%7D&api_shared_key=wY0e3zria06ULMWuSmR2&api_sig=EHOjGMeTyT0t4IWXpMuRmFh4/70=&timestamp=2025-06-03T00:20:19Z
+2025-06-02 20:20:19,955:INFO:Se obtuvieron 97 quarters.
+2025-06-02 20:20:19,961:INFO:No hay nuevos quarters disponibles. Finalizando la ejecución.
+2025-06-02 20:20:26,609:INFO:Realizando solicitud a la API: https://whalewisdom.com/shell/command.json?args=%7B%22command%22%3A%22quarters%22%7D&api_shared_key=wY0e3zria06ULMWuSmR2&api_sig=BQoawcHPtAoqoPXx+GdIhuW4LRk=&timestamp=2025-06-03T00:20:26Z
+2025-06-02 20:20:27,245:INFO:Se obtuvieron 97 quarters.
+2025-06-02 20:20:27,251:INFO:No hay nuevos quarters disponibles. Finalizando la ejecución.
+2025-06-02 20:20:27,252:INFO:Tiempo total de extracción: 0.642781 segundos
+2025-06-02 20:20:30,876:INFO:Realizando solicitud a la API: https://whalewisdom.com/shell/command.json?args=%7B%22command%22%3A%22quarters%22%7D&api_shared_key=wY0e3zria06ULMWuSmR2&api_sig=2P/RvJCqqiYbOYdkB2Qwne206UI=&timestamp=2025-06-03T00:20:30Z
+2025-06-02 20:20:31,515:INFO:Se obtuvieron 97 quarters.
+2025-06-02 20:20:31,522:INFO:No hay nuevos quarters disponibles. Finalizando la ejecución.
+2025-06-02 20:20:31,522:INFO:Tiempo total de extracción: 0.646742 segundos
+2025-06-02 20:26:23,107:INFO:Realizando solicitud a la API: https://whalewisdom.com/shell/command.json?args=%7B%22command%22%3A%22quarters%22%7D&api_shared_key=wY0e3zria06ULMWuSmR2&api_sig=oBjRrbVZ7ySaFLvX44NVPH0Z61s=&timestamp=2025-06-03T00:26:23Z
+2025-06-02 20:26:23,852:INFO:Se obtuvieron 97 quarters.
+2025-06-02 20:26:23,858:INFO:No hay nuevos quarters disponibles. Finalizando la ejecución.
+2025-06-02 20:26:23,859:INFO:Tiempo total de extracción: 0.752194 segundos
+2025-06-02 20:26:47,423:INFO:Realizando solicitud a la API: https://whalewisdom.com/shell/command.json?args=%7B%22command%22%3A%22quarters%22%7D&api_shared_key=wY0e3zria06ULMWuSmR2&api_sig=ObmyBJQFL5D447WCmCjrR7k9fnE=&timestamp=2025-06-03T00:26:47Z
+2025-06-02 20:26:48,067:INFO:Se obtuvieron 97 quarters.
+2025-06-02 20:26:48,073:INFO:No hay nuevos quarters disponibles. Finalizando la ejecución.
+2025-06-02 20:26:48,073:INFO:Tiempo total de extracción: 0.650855 segundos
+2025-06-02 20:26:49,193:INFO:Realizando solicitud a la API: https://whalewisdom.com/shell/command.json?args=%7B%22command%22%3A%22quarters%22%7D&api_shared_key=wY0e3zria06ULMWuSmR2&api_sig=XvNVl0b3+ui5rnQ4cN09plcftQI=&timestamp=2025-06-03T00:26:49Z
+2025-06-02 20:26:51,075:INFO:Se obtuvieron 97 quarters.
+2025-06-02 20:26:51,082:INFO:No hay nuevos quarters disponibles. Finalizando la ejecución.
+2025-06-02 20:26:51,082:INFO:Tiempo total de extracción: 1.889812 segundos
+2025-06-04 20:33:49,608:INFO:Realizando solicitud a la API: https://whalewisdom.com/shell/command.json?args=%7B%22command%22%3A%22quarters%22%7D&api_shared_key=wY0e3zria06ULMWuSmR2&api_sig=udtoBhmCEhj8oo1l7of3QpchJ2A=&timestamp=2025-06-05T00:33:49Z
+2025-06-04 20:33:50,704:INFO:Se obtuvieron 97 quarters.
+2025-06-04 20:33:50,712:INFO:No hay nuevos quarters disponibles. Finalizando la ejecución.
+2025-06-04 20:33:50,712:INFO:Tiempo total de extracción: 1.104487 segundos
+2025-06-05 19:44:08,054:INFO:Realizando solicitud a la API: https://whalewisdom.com/shell/command.json?args=%7B%22command%22%3A%22quarters%22%7D&api_shared_key=wY0e3zria06ULMWuSmR2&api_sig=kd91BVUWehtELLFGEbBW46rcjB8=&timestamp=2025-06-05T23:44:08Z
+2025-06-05 19:44:08,689:INFO:Se obtuvieron 97 quarters.
+2025-06-05 19:44:08,697:INFO:No hay nuevos quarters disponibles. Finalizando la ejecución.
+2025-06-05 19:44:08,697:INFO:Tiempo total de extracción: 0.643509 segundos
+2025-06-12 19:57:54,129:INFO:Realizando solicitud a la API: https://whalewisdom.com/shell/command.json?args=%7B%22command%22%3A%22quarters%22%7D&api_shared_key=wY0e3zria06ULMWuSmR2&api_sig=9kIEWzCbHq6hXoObYPrd+pBimYU=&timestamp=2025-06-12T23:57:54Z
+2025-06-12 19:57:54,924:INFO:Se obtuvieron 97 quarters.
+2025-06-12 19:57:54,930:INFO:No hay nuevos quarters disponibles. Finalizando la ejecución.
+2025-06-12 19:57:54,930:INFO:Tiempo total de extracción: 0.8012 segundos

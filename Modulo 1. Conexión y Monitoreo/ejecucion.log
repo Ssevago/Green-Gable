@@ -1,0 +1,15 @@
+2025-06-02 21:14:37 - Script iniciado
+/Users/sevago/Desktop/Green Gable Advisors LLC/Modulo 1. Conexión y Monitoreo/Modulo_1_Conexión_y_Monitoreo.py:34: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  timenow = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+No hay nueva información de quarters. Finalizando la ejecución.
+2025-06-02 21:14:38 - Script finalizado correctamente
+2025-06-02 21:15:31 - Script iniciado
+/Users/sevago/Desktop/Green Gable Advisors LLC/Modulo 1. Conexión y Monitoreo/Modulo_1_Conexión_y_Monitoreo.py:34: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  timenow = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+No hay nueva información de quarters. Finalizando la ejecución.
+2025-06-02 21:15:32 - Script finalizado correctamente
+2025-06-02 21:52:40 - Script iniciado
+/Users/sevago/Desktop/Green Gable Advisors LLC/Modulo 1. Conexión y Monitoreo/Modulo_1_Conexión_y_Monitoreo.py:34: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  timenow = datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')
+No hay nueva información de quarters. Finalizando la ejecución.
+2025-06-02 21:52:42 - Script finalizado correctamente
